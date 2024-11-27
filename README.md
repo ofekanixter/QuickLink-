@@ -24,6 +24,6 @@ QuickLink is a simple, full-stack URL shortener application built using Python (
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QuickLink.git
-   cd QuickLink
+   git clone https://github.com/yourusername/QuickLink-.git
+   cd QuickLink-
    ```
